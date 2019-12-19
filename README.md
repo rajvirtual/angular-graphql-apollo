@@ -1,4 +1,4 @@
-# Angular8 Apollo GraphQL
+# Angular 8 Apollo GraphQL
 
 A Sample project using Angular 8 and Apollo GraphQL.
 
