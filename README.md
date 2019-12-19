@@ -1,6 +1,6 @@
-# AngularGraphqlApollo
+# Angular8 Apollo GraphQL
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
+A Sample project using Angular 8 and Apollo GraphQL.
 
 ## Development server
 
